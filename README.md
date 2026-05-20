@@ -1,4 +1,7 @@
 # Loan-risk-and-customer-default-analysis
+
+<img width="626" height="365" alt="Screenshot 2026-05-19 030117" src="https://github.com/user-attachments/assets/85578fac-509c-4ea8-9273-b5209140bdc0" />
+
 ## CREDITRUST LOAN PERFORMANCE ANALYSIS
 
 ### EXECUTIVE SUMMARY
