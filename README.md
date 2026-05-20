@@ -9,6 +9,9 @@ The analysis evaluates the performance and risk profile of Creditrust’s loan p
 The portfolio contains a total loan exposure of $218 million distributed across 150 customers, with high-risk exposure accounting for $17 million (7.93%) of the portfolio. The analysis further highlights that loan purpose, employment status, and credit score are major determinants of default behavior.
 
 ## DASHBOARD OVERVIEW
+
+<img width="638" height="359" alt="Screenshot 2026-05-19 030126" src="https://github.com/user-attachments/assets/ab169fdf-8897-4632-8e5b-dc93639e1601" />
+
 ### Key Performance Indicators (KPIs)
 * The loan portfolio totals $218 million, reflecting the institution’s overall lending exposure.
 * High-risk loans account for $17 million (7.93%) of the portfolio, increasing the likelihood of financial losses.
